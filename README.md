@@ -33,7 +33,7 @@
 ### My Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jonassarcilla&show_icons=true&locale=en" alt="jonassarcilla" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonassarcilla&show_icons=true&locale=en&layout=compact" alt="jonassarcilla" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonassarcilla&show_icons=true&locale=en&layout=compact" alt="jonassarcilla" /></p>
 <br><br>
 
 ### Featured Works
