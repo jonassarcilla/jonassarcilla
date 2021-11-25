@@ -30,9 +30,9 @@
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-jQuery-383838?style=flat&logo=jquery&logoColor=0769AD"> <img src="https://img.shields.io/badge/-React%20JS-20232a?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/-VueJS-34495e?style=flat&logo=vuedotjs&logoColor=4FC08D">
 
 ### My Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jonassarcilla&show_icons=true&locale=en" alt="jonassarcilla" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonassarcilla&show_icons=true&locale=en&layout=compact" alt="jonassarcilla" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jonassarcilla&show_icons=true&locale=en" alt="jonassarcilla" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonassarcilla&show_icons=true&locale=en&layout=compact" alt="jonassarcilla" />
+
 <br><br>
 
 ### Featured Works
