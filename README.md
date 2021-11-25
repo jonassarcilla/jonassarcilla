@@ -14,10 +14,20 @@
 ---
 
 ### Tech Stack & Tools Preference
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-C_Sharp-512BD4?style=flat&logo=dotnet&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-C_Sharp-512BD4?style=flat&logo=dotnet&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-ASP_MVC-512BD4?style=flat&logo=dotnet&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-LINQ-512BD4?style=flat&logo=dotnet&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Core-512BD4?style=flat&logo=dotnet&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=FFFFFF">
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffdf76"> <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff"> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF">
+
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=ffffff"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=FFFFFF">
+
+<img src="https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodedotjs&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Express%20JS-000000?style=flat&logo=express&logoColor=ffffff">
+
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff">
+
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-jQuery-383838?style=flat&logo=jquery&logoColor=0769AD"> <img src="https://img.shields.io/badge/-React%20JS-20232a?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/-VueJS-34495e?style=flat&logo=vuedotjs&logoColor=4FC08D">
 
 ### My Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jonassarcilla&show_icons=true&locale=en" alt="jonassarcilla" /></p>
